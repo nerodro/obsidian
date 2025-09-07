@@ -8,15 +8,28 @@
 		- [[Cgroups]]
 		- [[Chroot]]
 		- [[strace]]
+		- [[systemd]]
 	- Хранилище
 		- [[Inode]]
+		- [[ls]]
+		- [[DU]]
+		- [[DF]]
+		- [[Lsof]]
 	- Безопасность
 		- [[Su]]
 		- [[Sudo]]
+		- [[chmod]]
+		- [[Права доступа]]
 	- Сети
 		- [[Iptables]] 
 
-K8s:
+Сети:
+
+[[TCP протокол]]
+
+[[UDP протокол]]
+
+[[HTTP]]
 
 Docker:
 
@@ -32,8 +45,12 @@ Docker:
 
 [[Multistage сборки]]
 
+K8s:
+
+
+
 Ansible:
 
-Сети:
+
 
 CI/CD:
