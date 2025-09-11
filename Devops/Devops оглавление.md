@@ -35,6 +35,8 @@
 		- [[UDP протокол]]
 		- [[HTTP]]
 		- [[ARP]]
+		- [[DHCP]]
+		- [[gRPC]]
 	- Технологий
 		- [[NAT]]
 	- Безопасность
@@ -57,9 +59,13 @@ Docker:
 - K8s:
 	- Архитектура
 		- [[kube-api]]
+		- [[etcd]]
+		- [[Kubelet]]
+		- [[scheduler]]
 	- Сети
 		- [[ClusterIP]]
 		- [[Kube-proxy]]
+		- [[NodePort]]
 	- Основные компоненты
 
 
