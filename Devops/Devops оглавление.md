@@ -37,6 +37,7 @@
 		- [[ARP]]
 		- [[DHCP]]
 		- [[gRPC]]
+		- [[SSH]]
 	- Технологий
 		- [[NAT]]
 	- Безопасность
@@ -58,10 +59,12 @@ Docker:
 
 - K8s:
 	- Архитектура
+		- [[Control-plane]]
 		- [[kube-api]]
 		- [[etcd]]
 		- [[Kubelet]]
 		- [[scheduler]]
+		- [[Kube-controller-manager]]
 	- Сети
 		- [[ClusterIP]]
 		- [[Kube-proxy]]
