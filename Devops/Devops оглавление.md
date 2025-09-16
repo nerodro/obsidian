@@ -10,6 +10,7 @@
 		- [[strace]]
 		- [[systemd]]
 		- [[Chown]]
+		- [[Запуск linux]]
 	- Хранилище
 		- [[Inode]]
 		- [[ls]]
@@ -38,6 +39,7 @@
 		- [[DHCP]]
 		- [[gRPC]]
 		- [[SSH]]
+		- [[IP]]
 	- Технологий
 		- [[NAT]]
 	- Безопасность
@@ -70,6 +72,9 @@ Docker:
 		- [[Kube-proxy]]
 		- [[NodePort]]
 	- Основные компоненты
+		- [[Node]]
+		- [[Pod]]
+		- [[Init контейнер]]
 
 
 
@@ -78,3 +83,11 @@ Ansible:
 
 
 CI/CD:
+
+Prometheus:
+
+[[Prometheus server]]
+
+[[Виды значений prometheus]]
+
+
