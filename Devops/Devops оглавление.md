@@ -75,6 +75,11 @@ Docker:
 		- [[Node]]
 		- [[Pod]]
 		- [[Init контейнер]]
+		- [[Pause контейнер]]
+		- [[ReplicaSet]]
+		- [[Deployment]]
+		- [[DaemonSet]]
+		- [[Job]]
 
 
 
